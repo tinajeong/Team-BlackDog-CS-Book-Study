@@ -30,7 +30,7 @@
 ## ✅ Gitub 사용 방식
 ### 주단위 과제 수행시
 1. devYSK/Team-BlackDog-CS-Book-Study 레포지토리를 fork
-2. 디렉토리 구조는 과목명 - 중제목명 - [이름] 디렉토리 안에 정리한 파일 넣어서 pork 한 레포지토리에 업로드
+2. 디렉토리 구조는 과목명 - 중제목명 - [이름] 디렉토리 안에 정리한 파일 넣어서 fork 한 레포지토리에 업로드
 3. devYSK/Team-BlackDog-CS-Book-Study 레포지토리 Main 브런치에 pr  
 
 
