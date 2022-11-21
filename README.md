@@ -29,9 +29,9 @@
 
 ## ✅ Gitub 사용 방식
 ### 주단위 과제 수행시
-1. devYSK/Team-BlackDog-CS-Book-Study 레포지토리를 fork해서 자신의 pr용 브런치를 생성
-2. Main 브런치에 업로드할 사항을 작성해서 pr
-3. merge된 내용을 본인 main 브랜치에 fetch upstream
+1. devYSK/Team-BlackDog-CS-Book-Study 레포지토리를 fork
+2. 디렉토리 구조는 과목명 - 중제목명 - [이름] 디렉토리 안에 정리한 파일 넣어서 pork 한 레포지토리에 업로드
+3. devYSK/Team-BlackDog-CS-Book-Study 레포지토리 Main 브런치에 pr  
 
 
 ## 🔥 스터디 진행현황 - 
